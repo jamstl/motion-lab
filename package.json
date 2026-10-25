@@ -1,0 +1,14 @@
+{
+  "name": "motion-lab",
+  "version": "1.0.0",
+  "description": "Motion Lab — knowledge base of web animation libraries and live examples",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "build": "echo 'Static site — no build step required. Open index.html or run npm start.'"
+  },
+  "keywords": ["motion", "animation", "gsap", "animejs", "knowledge-base"],
+  "author": "",
+  "license": "MIT"
+}
